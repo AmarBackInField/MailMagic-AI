@@ -1,5 +1,15 @@
-# MailMagic-AI
+<h1 align="center">MailMagic-AI</h1>
+
+
 *Send numerous emails to multiple recipients in just 4 simple steps with a single click, using an integrated Google Calendar scheduler and Gmail.*
+
+### _Steps to Use_:
+
+- **Step 1**: Upload Resume  
+- **Step 2**: Select Recipients  
+- **Step 3**: Compose Email  
+- **Step 4**: Attach Files and Schedule  
+
 # Landing Page
 ![Screenshot 2025-04-05 021332](https://github.com/user-attachments/assets/d1fa6824-fa5c-4ce0-8038-49f113c740ec)
 # Step 1
