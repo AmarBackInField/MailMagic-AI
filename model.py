@@ -2,9 +2,11 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain.schema import StrOutputParser
 from langchain.prompts import ChatPromptTemplate
 from PyPDF2 import PdfReader
-
+import os
+from dotenv import load_dotenv
+load_dotenv()
 # Google API Key
-Google_api_key = "AIzaSyAJa17IJGY8HeRKU7sbatf5DwdKy1X9oNs"
+Google_api_key = os.getenv("Google_api_key")
 
 # Initialize the AI model
 model = ChatGoogleGenerativeAI(api_key=Google_api_key, model="gemini-2.0-flash-lite")
