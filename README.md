@@ -26,3 +26,8 @@
 ![Screenshot 2025-04-05 021906](https://github.com/user-attachments/assets/f6d2dffd-2871-4887-88bf-72687b84b5e4)
 ![Screenshot 2025-04-05 021951](https://github.com/user-attachments/assets/ab2ed94a-b58a-49a6-b0f1-775a518c2acc)
 
+---
+
+<h1 align="center">Made with ❤️ by Amar Choudhary</h1>
+
+
